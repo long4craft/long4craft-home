@@ -18,3 +18,14 @@ dialog{width:min(520px,calc(100vw - 28px));border:1px solid #dae2d4;border-radiu
 @media(max-width:760px){.service-card ul,.service-tagline{font-size:12px}.service-audience{font-size:11px}.service-cta{font-size:12px}.project-description,.about-copy>p{font-size:12px}.dialog-shell select,.dialog-shell textarea{font-size:16px}.dialog-close{width:40px;height:40px}.round-link{width:42px;height:42px}.project-bottom>.text-link{min-height:40px}.faq-list summary{font-size:12px}.faq-list details>p{font-size:11px}}
 @media(max-width:360px){.service-card ul,.service-tagline{font-size:11px}.service-audience{font-size:10px}}
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
+
+/* Consultation dialog: compact contact choices using the original platform cards. */
+#contact-dialog .consult-channels{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:20px;padding-top:18px;align-items:stretch}
+.consult-channel{min-width:0;display:flex;flex-direction:column;align-items:center;text-align:center;padding:12px 10px;background:#f0f3eb;border:1px solid var(--line);border-radius:10px}
+.consult-platform{font-size:10px;font-weight:600;padding:2px 7px;border-radius:5px;margin-bottom:9px;line-height:1.6}
+.platform-xhs{background:#fff0f1;color:#bd3e48}.platform-xianyu{background:#ffe944;color:#403a12}
+#contact-dialog .consult-channel .qr-original{width:104px;height:104px;max-width:100%;padding:0;margin:0 0 9px;background:#fff;border-radius:8px;overflow:hidden}
+#contact-dialog .consult-channel b{font-size:11px;line-height:1.6}
+#contact-dialog .consult-channel p{font-size:9px;margin:3px 0 7px;line-height:1.6}
+#contact-dialog .consult-channel a{font-size:10px;min-height:28px;justify-content:center;padding:5px 8px;border:1px solid var(--line);border-radius:5px;background:var(--paper);width:100%}
+@media(max-width:420px){#contact-dialog .consult-channels{gap:8px}.consult-channel{padding:10px 7px}#contact-dialog .consult-channel .qr-original{width:96px;height:96px}#contact-dialog .consult-channel a{font-size:9px;padding-inline:4px}}

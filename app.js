@@ -80,7 +80,7 @@ $('#brief-form').addEventListener('submit',event => {
   const choice=$('#service-choice').value;
   const message=$('#brief-message').value.trim();
   const text=`你好，我从 Long4Craft 网站来，想了解「${choice}」。\n${message ? `我的需求：${message}` : '想先和你聊聊需求与实现方案。'}`;
-  copyText(text,$('#brief-feedback'),'需求已复制。点击下方「打开小红书主页」，在私信中粘贴并发送即可。');
+  copyText(text,$('#brief-feedback'),'需求已复制。选择下方小红书或闲鱼，在私信中粘贴并发送即可。');
 });
 
 async function getProjects() {
