@@ -1,8 +1,25 @@
 {
   "schema_version": 1,
   "root_url": "https://long4craft.com",
-  "updated_at": "2026-10-20T08:24:53.610256+00:00",
+  "updated_at": "2026-10-20T11:29:00.657827+00:00",
   "sites": [
+    {
+      "name": "Long4Craft · 数字作品与开发服务",
+      "slug": "long4craft-home",
+      "description": "Long4Craft 主入口：独立网站作品、免费源码与六类软件开发服务。",
+      "tags": [
+        "作品集",
+        "软件开发",
+        "AI应用",
+        "免费源码"
+      ],
+      "url": "https://long4craft.com",
+      "repository_url": "https://github.com/long4craft/long4craft-home",
+      "completed_at": "2026-10-20T10:56:58.590365+00:00",
+      "updated_at": "2026-10-20T10:56:58.590433+00:00",
+      "xiaohongshu_status": "pending",
+      "xiaohongshu_url": null
+    },
     {
       "name": "FORME 形研运动",
       "slug": "forme",
@@ -17,7 +34,7 @@
       "url": "https://forme.long4craft.com",
       "repository_url": "https://github.com/long4craft/forme",
       "completed_at": "2026-10-20T08:12:05.100178+00:00",
-      "updated_at": "2026-10-20T08:12:05.100241+00:00",
+      "updated_at": "2026-10-20T11:28:40.131185+00:00",
       "xiaohongshu_status": "published",
       "xiaohongshu_url": null
     },
@@ -34,7 +51,7 @@
       "url": "https://stillroom.long4craft.com",
       "repository_url": "https://github.com/long4craft/stillroom",
       "completed_at": "2026-10-20T06:43:36.214526+00:00",
-      "updated_at": "2026-10-20T06:43:36.214634+00:00",
+      "updated_at": "2026-10-20T11:28:54.970349+00:00",
       "xiaohongshu_status": "published",
       "xiaohongshu_url": null
     },
@@ -51,7 +68,7 @@
       "url": "https://pawpaw.long4craft.com",
       "repository_url": "https://github.com/long4craft/pawpaw",
       "completed_at": "2026-10-20T05:39:29.413253+00:00",
-      "updated_at": "2026-10-20T05:39:29.413318+00:00",
+      "updated_at": "2026-10-20T11:28:55.144059+00:00",
       "xiaohongshu_status": "published",
       "xiaohongshu_url": null
     },
@@ -68,7 +85,7 @@
       "url": "https://sip-studio.long4craft.com",
       "repository_url": "https://github.com/long4craft/sip-studio",
       "completed_at": "2026-10-20T04:15:13.189038+00:00",
-      "updated_at": "2026-10-20T04:15:13.189135+00:00",
+      "updated_at": "2026-10-20T11:29:00.656584+00:00",
       "xiaohongshu_status": "published",
       "xiaohongshu_url": "https://www.xiaohongshu.com/explore/6ad6f53d000000001d02fa02"
     }
