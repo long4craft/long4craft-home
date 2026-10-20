@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "root_url": "https://long4craft.com",
+  "updated_at": "2026-10-20T08:24:53.610256+00:00",
+  "sites": [
+    {
+      "name": "FORME 形研运动",
+      "slug": "forme",
+      "description": "自然光风格的普拉提与健身工作室，提供课程探索、预约和会员课时管理演示。",
+      "tags": [
+        "普拉提",
+        "瑜伽",
+        "健身工作室",
+        "预约系统",
+        "会员课时"
+      ],
+      "url": "https://forme.long4craft.com",
+      "repository_url": "https://github.com/long4craft/forme",
+      "completed_at": "2026-10-20T08:12:05.100178+00:00",
+      "updated_at": "2026-10-20T08:12:05.100241+00:00",
+      "xiaohongshu_status": "published",
+      "xiaohongshu_url": null
+    },
+    {
+      "name": "STILLROOM 留白摄影",
+      "slug": "stillroom",
+      "description": "暖白胶片风格的摄影工作室概念网站，提供作品分类、套餐选择、档期预约与浏览器内预约管理演示。",
+      "tags": [
+        "摄影工作室",
+        "预约系统",
+        "作品集",
+        "胶片风格"
+      ],
+      "url": "https://stillroom.long4craft.com",
+      "repository_url": "https://github.com/long4craft/stillroom",
+      "completed_at": "2026-10-20T06:43:36.214526+00:00",
+      "updated_at": "2026-10-20T06:43:36.214634+00:00",
+      "xiaohongshu_status": "published",
+      "xiaohongshu_url": null
+    },
+    {
+      "name": "PAWPAW 爪爪",
+      "slug": "pawpaw",
+      "description": "紫橙撞色的宠物潮流品牌主页，提供丰富商品档案、收藏与互动选品。",
+      "tags": [
+        "宠物",
+        "品牌主页",
+        "交互设计",
+        "生活方式"
+      ],
+      "url": "https://pawpaw.long4craft.com",
+      "repository_url": "https://github.com/long4craft/pawpaw",
+      "completed_at": "2026-10-20T05:39:29.413253+00:00",
+      "updated_at": "2026-10-20T05:39:29.413318+00:00",
+      "xiaohongshu_status": "published",
+      "xiaohongshu_url": null
+    },
+    {
+      "name": "SIP STUDIO",
+      "slug": "sip-studio",
+      "description": "奶油白、钴蓝与珊瑚橙构成的时尚吸管保温杯品牌概念主页，提供三配色探索与购物袋演示。",
+      "tags": [
+        "品牌官网",
+        "Tumbler",
+        "生活方式",
+        "产品展示"
+      ],
+      "url": "https://sip-studio.long4craft.com",
+      "repository_url": "https://github.com/long4craft/sip-studio",
+      "completed_at": "2026-10-20T04:15:13.189038+00:00",
+      "updated_at": "2026-10-20T04:15:13.189135+00:00",
+      "xiaohongshu_status": "published",
+      "xiaohongshu_url": "https://www.xiaohongshu.com/explore/6ad6f53d000000001d02fa02"
+    }
+  ]
+}

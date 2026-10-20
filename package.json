@@ -1,0 +1,14 @@
+{
+  "name": "long4craft-home",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Long4Craft · 网站作品、免费源码与软件开发服务",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node --check app.js && node --check build.mjs && node --check seo.mjs",
+    "check:seo": "python3 scripts/check-seo.py",
+    "dev": "node build.mjs && python3 -m http.server 4326 --bind 127.0.0.1 --directory dist"
+  },
+  "license": "MIT"
+}
